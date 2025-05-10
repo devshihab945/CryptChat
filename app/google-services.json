@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494672386443",
+    "project_id": "cryptchat-a2fa3",
+    "storage_bucket": "cryptchat-a2fa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494672386443:android:73ee375d3b2d995f18378e",
+        "android_client_info": {
+          "package_name": "com.shihab.cryptchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYzvqgYO7MeP7LOfKKWbo4YjYZ1T8LkhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
